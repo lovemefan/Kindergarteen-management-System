@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-class:  Ó×¶ùÔ°¹ÜÀí.windows.Windows

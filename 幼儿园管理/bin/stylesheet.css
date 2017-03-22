@@ -1,0 +1,19 @@
+
+
+
+.button1{
+	-fx-font-family:"黑体";
+	-fx-font-size: 25pt;
+    -fx-text-fill: #000000;
+    -fx-background-color: rgb(88,214,254);
+    -fx-border-radius: 50;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.borders{
+    -fx-border-color: rgb(103, 100, 78);
+    -fx-border-style: dotted;
+    -fx-border-width: 1.5;
+    -fx-border-insets: -5;
+}
